@@ -1,0 +1,1 @@
+"C:\Program Files\HCL\DevOpsTestAPI\IntegrationTesterCmd" --serverUrl "http://localhost:7819/RTCP/" --domain Emirates --environment LOCAL --name "High Throughput Stub" stop-stub
